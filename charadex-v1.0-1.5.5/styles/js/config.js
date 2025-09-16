@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Gelatarians",
-  url: "https://gelatarians.github.io/gelatarians/index.html",
+  url: "https://gelatarians.github.io/gelatarians/",
   description: `The Gelatarian species' site`
 }
 
