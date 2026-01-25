@@ -43,7 +43,7 @@ charadex.sheet = {
   options: {
 
     designTypes: ['All', 'Official Design', 'Guest Artist Design', 'MYO Slot', 'Mod Custom', 'Raffle', 'NPC'],
-    statuses: ['All', 'Plains', 'Forest', 'Sky', 'Space', 'Sea', 'Mountains', 'Caverns', 'Underworld', 'Hybrid', 'Voided'],
+    subtypes: ['All', 'Plains', 'Forest', 'Sky', 'Space', 'Sea', 'Mountains', 'Caverns', 'Underworld', 'Hybrid', 'Voided'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Subtype', 'Other-Worldly', 'Legacy', 'Misc'],
     species: ['All', 'Gelatarian', 'Pixitary', 'Gnarpling'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Redesign', 'Trait', 'Misc'],
@@ -329,7 +329,7 @@ charadex.page.masterlist = {
     toggle: true,
     parameters: {
       'Design Type': charadex.sheet.options.designTypes,
-      'Status': charadex.sheet.options.statuses,
+      'Subtype': charadex.sheet.options.subtypes,
       'Rarity': charadex.sheet.options.rarity,
     }
   },
