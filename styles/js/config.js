@@ -44,7 +44,7 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Artist Design', 'MYO Slot', 'Mod Custom', 'Raffle', 'NPC'],
     subtypes: ['All', 'Plains', 'Forest', 'Sky', 'Space', 'Sea', 'Mountains', 'Caverns', 'Underworld', 'Hybrid', 'Voided'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Subtype', 'Other-Worldly', 'Legacy', 'Misc'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Other-Worldly', 'Legacy', 'Misc'],
     species: ['All', 'Gelatarian', 'Pixitary', 'Gnarpling'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Redesign', 'Trait', 'Misc'],
     traitTypes: ['All', 'Fur', 'Eyes', 'Antennae', 'Ears', 'Tails', 'Gelatin', 'Paw pads', 'Bones', 'Misc']
